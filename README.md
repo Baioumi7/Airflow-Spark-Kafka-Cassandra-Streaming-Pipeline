@@ -17,13 +17,13 @@ This repository leverages [Docker Compose](https://docs.docker.com/compose/) to 
 
 1. Clone the repository and start the demo:
     ```
-    https://github.com/Mouhamed-Jinja/Spark-Kafka-Cassandra-Streaming-Pipeline.git
+    https://github.com/Baioumi7/Airflow-Spark-Kafka-Cassandra-Streaming-Pipeline.git
     ```
 
 2. Build the Airflow image, which is extended to run Spark jobs. The official Airflow-Spark image from the documentation is used. For more information, refer to the provided repository
 - link:
   ```
-  https://github.com/Mouhamed-Jinja/Airflow-spark-Postgres-integration.git
+  https://github.com/Baioumi7/Airflow-Spark-Kafka-Cassandra-Streaming-Pipeline.git
   ```
 - Build command
   ```
